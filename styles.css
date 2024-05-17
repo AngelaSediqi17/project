@@ -1,0 +1,148 @@
+body{
+    background-color: rgba(248, 223, 140, 0.76);
+    font-family:Arial, Helvetica, sans-serif ;  
+}
+h3{
+    text-align: center;
+}
+.navbar-brand{
+   color: black;
+}
+.nav-Custom{
+    border: 1px dashed;
+    width: 350px;
+    height: 250px;
+    display: inline-block;
+    padding-left: 20px;
+}
+.nav-Web{
+    border: 1px dashed; 
+    width: 350px;
+    height: 250px;
+    display: inline-block;
+    padding-left: 20px;
+    margin:0px 8px 0px 8px;
+}
+.nav-IT{
+    border: 1px dashed;
+    width: 350px;
+    height: 250px;
+    display: inline-block;
+    padding-left: 20px;
+    text-align: center;
+}
+h6{
+    text-align: center;
+    margin: 0px 20px 20px 0px;
+    padding:8px;
+    background-color: rgba(128, 128, 250, 0.212);
+}
+.btn-color{
+    background-color: rgb(62, 62, 248); ;
+    border: none;
+    
+}
+.item1{
+    display: inline-block;
+    width: 360px;
+    height: 350px;
+    border: 1px dashed;
+    text-align: center;
+}
+.item2{
+    display: inline-block;
+    width: 360px;
+    height: 350px;
+    border: 1px dashed ;
+    text-align: center;
+   margin:0px 10px 0px 10px;
+}
+.item3{
+    display: inline-block;
+    width: 360px;
+    height: 350px;
+    border: 1px dashed ;
+   text-align: center;
+}
+.button:hover{
+    cursor: pointer;
+    scale: 1.1;
+}
+.footer{
+    background-color:white;
+    color: rgba(0, 0, 0, 0.877);
+    text-align: center;
+    width: 100%;
+}
+.about{
+    text-align: center;
+}
+.carousel-item{
+    text-align: center;
+}
+.testimonial{
+    padding-top: 20px;
+    width:100%;
+    height: 200px;
+    background-color:rgba(128, 128, 250, 0.212);
+}
+.nav-team1{
+    display: inline-block;
+    margin-right: 250px;
+    margin-left: 150px;
+    text-align: center;
+}
+.nav-team2{
+    display: inline-block;
+    margin-left: 150px;
+    text-align: center;
+}
+.nav-team3{
+    display: inline-block;
+    margin-left: 150px;
+    text-align: center;
+}
+.image{
+    border-radius: 50%;
+}
+.icons{
+    display:inline-block;
+   text-align: center;
+   border: 1px dashed;
+   width: 300px;
+   height: 250px;
+   margin :50px 20px 20px 40px;
+  padding-top: 20px;
+}
+.pricing{
+    background-color: rgba(128, 128, 250, 0.212);
+    display: inline-block;
+   text-align: center;
+   border: 1px dashed;
+   width: 300px;
+   height: 340px;
+   margin: 30px;
+  padding: 50px;
+}
+.price{
+    margin-top: 100px;
+}
+button{
+    padding: 7px;
+    margin-top: 20px;
+    background-color: rgb(62, 62, 248);
+}
+.form-control:hover{
+    font-weight:bold;
+    cursor: pointer;
+  scale: 1.1;
+}
+.p{
+    margin:40px  10px 30px 40px;
+}
+.icon{
+    text-align: center;
+    width: 100px;
+    height: 80px;
+    padding-bottom: 20px;
+}
